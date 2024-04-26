@@ -19,8 +19,7 @@
   <a href="#key-features">Key Features</a> •
   <a href="#how-to-run">How To Run</a> •
   <a href="#configuration">Configuration</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  
 </p>
 
 
@@ -89,6 +88,6 @@ This software uses the following open source packages:
 - [Render](https://render.com/)
 - [TODO logo](https://www.logoai.com/)
 
-## License
 
-MIT
+
+
