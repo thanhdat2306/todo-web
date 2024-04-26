@@ -7,12 +7,9 @@
   <br>
 </h1>
 
-<h4 align="center">A minimal todo list web app made with MERN. ❤️</h4>
+<h4 align="center">A minimal todo list web app made with MERN. </h4>
 
-<p align="center">
-  <a href="https://github.com/primalkz/mern-todo-app/stargazers"><img src="https://img.shields.io/github/stars/primalkz/mern-todo-app?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-  <a href="https://github.com/primalkz/mern-todo-app/issues"><img src="https://img.shields.io/github/issues/primalkz/mern-todo-app?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-</p>
+
 
 <p align="center">
   <a href="#live-website">Live Website</a> •
