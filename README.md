@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://todo2app.onrender.com/"><img src="https://raw.githubusercontent.com/primalkz/mern-todo-app/main/assets/img.png" alt="Markdownify" width="200"></a>
+  <a href="https://todo2app.onrender.com/"></a>
   <br>
   Todo List Application
   <br>
