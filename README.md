@@ -3,7 +3,7 @@
   <br>
   <a href="https://todo2app.onrender.com/"></a>
   <br>
-  Todo List Web
+  Todo Web
   <br>
 </h1>
 
